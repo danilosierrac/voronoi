@@ -16,7 +16,7 @@ body {
 }
 
 p {
-    font-size: 12pt;
+    font-size: 11pt;
     max-width: 80%;
     text-align: center;
     padding-left: 10%;
@@ -66,8 +66,8 @@ a:active {
     position:absolute;
     top: 25%;
     left:  50%;
-    margin-left: -30%;
-    width: 60%;
+    margin-left: -35%;
+    width: 70%;
 
 }
 
